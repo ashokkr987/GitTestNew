@@ -9,6 +9,10 @@ public class A {
 		System.out.println("again");
 		
 		System.out.println("again again");
+		
+		System.out.println("jitu");
+		
+		System.out.println("jitendra");
 	}
 
 }
